@@ -1,10 +1,10 @@
-#Song Popularity Analysis with Pandas
+Song Popularity Analysis with Pandas
 
 This project aims to explore whether a song's popularity can be predicted based on various musical attributes such as liveliness, tempo, energy, and more. By leveraging the power of the Pandas library, we analyze and visualize the relationships between these factors and a song's popularity.
 Project Overview
 
 In the modern music industry, predicting a song's success is a challenging task due to the multitude of factors that can influence its popularity. This project uses data analysis techniques to investigate whether specific musical characteristics can provide insights into what makes a song popular.
-#Key Features
+Key Features
 
     Data Collection: Gathered data on various musical attributes (e.g., liveliness, tempo, energy) from a dataset of songs.
 
@@ -16,14 +16,14 @@ In the modern music industry, predicting a song's success is a challenging task 
 
     Statistical Analysis: Conducted statistical tests and regression analysis to evaluate the significance of each attribute in predicting popularity.
 
-#Technologies Used
+Technologies Used
 
     Python: The core programming language used for the project.
     Pandas: Utilized for data manipulation, cleaning, and analysis.
     Matplotlib/Seaborn: Used for data visualization and creating insightful plots.
     NumPy: Employed for numerical operations and statistical analysis.
 
-#Results and Findings
+Results and Findings
 
 The analysis revealed several interesting trends and correlations between the musical attributes and a song's popularity. Some key findings include:
 
