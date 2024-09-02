@@ -23,12 +23,5 @@ Technologies Used
     Matplotlib/Seaborn: Used for data visualization and creating insightful plots.
     NumPy: Employed for numerical operations and statistical analysis.
 
-Results and Findings
 
-The analysis revealed several interesting trends and correlations between the musical attributes and a song's popularity. Some key findings include:
 
-    [Insert key finding 1]
-    [Insert key finding 2]
-    [Insert key finding 3]
-
-These results suggest that while certain factors can influence a song’s popularity, predicting success based on these attributes alone remains a complex challenge.
